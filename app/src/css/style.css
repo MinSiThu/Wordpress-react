@@ -1,0 +1,50 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.post{
+  width:90%;
+  margin:10px auto;
+}
+
+.post img{
+  max-width: 80%;
+  max-height: 400px;
+}
+
+.noti-bar{
+  padding: 10px;
+  background-color: skyblue;
+  color:white;
+}
+
+.container,h2{
+  width:80%;
+  margin: 20px auto;
+}
+
+.container img{
+  max-width: 100%;
+}
+
+nav h1{
+  padding: 20px;
+  margin:0
+}
+
+.loadmore{
+  display: block;
+  width:80%;
+  margin: 20px auto;
+  padding:20px;
+  border:none;
+  background-color: skyblue;
+  color:white;
+  font-weight: bold;
+}
+
+.loadmore:hover{
+  box-shadow: 5px 5px 5px black;
+}
