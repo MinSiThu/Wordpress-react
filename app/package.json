@@ -13,12 +13,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@capacitor-community/admob": "^4.0.0-1",
     "@capacitor/android": "^4.0.1",
     "@capacitor/camera": "latest",
     "@capacitor/core": "latest",
     "@capacitor/network": "^4.0.1",
     "@capacitor/splash-screen": "latest",
     "@reduxjs/toolkit": "^1.8.4",
+    "capacitor-admob": "^0.1.0",
     "react": "^18.2.0",
     "react-detect-internet-connection": "^1.0.0",
     "react-dom": "^18.2.0",

@@ -27,6 +27,7 @@ body {
 
 .container img{
   max-width: 100%;
+  height: auto;
 }
 
 nav h1{
@@ -47,4 +48,26 @@ nav h1{
 
 .loadmore:hover{
   box-shadow: 5px 5px 5px black;
+}
+
+.backSection{
+  position: sticky;
+  top:0;
+  display: block;
+  width:100%;
+  margin: 5px auto;
+  padding:10px;
+  border:none;
+  background-color: skyblue;
+  color:white;
+  font-weight: bold;
+}
+
+.backButton{
+  display: block;
+  border:none;
+  background-color: skyblue;
+  color:white;
+  font-weight: bolder;
+  font-size:16pt
 }
