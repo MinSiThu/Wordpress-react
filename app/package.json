@@ -13,6 +13,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@capacitor/android": "^4.0.1",
     "@capacitor/camera": "latest",
     "@capacitor/core": "latest",
     "@capacitor/network": "^4.0.1",
